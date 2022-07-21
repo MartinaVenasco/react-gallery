@@ -1,0 +1,15 @@
+.hero {background-image:url('../../heroimg.jpg');
+	background-repeat: no-repeat;
+	background-position: center;
+color:white;
+background-size: cover;
+position: relative;
+height: 300px;
+padding:6px;
+
+display: flex;
+justify-content: flex-start;}
+
+.hero h2 {margin-left: 30px;}
+
+
